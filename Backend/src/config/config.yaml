@@ -1,0 +1,3 @@
+API_URL: http://localhost:8000
+DATABASE_ENGINE: postgresql+asyncpg://wyndace:bofu4242@localhost:5432/mtg_mirea
+SITE_URL: http://localhost
